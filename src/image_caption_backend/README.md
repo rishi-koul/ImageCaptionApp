@@ -1,6 +1,6 @@
 ### Notes
 
-You will find in the code that there was a  `loaded VGG16 restructed model` used. However the model was too large to upload at GitHub.
+You will find in the code that there was a  `loaded VGG16 restructed model` used. However the model was too large to upload on GitHub.
 
 The restructed model will download if you run the provided google colab notbook or you can simply run the following commands to download it:
 
