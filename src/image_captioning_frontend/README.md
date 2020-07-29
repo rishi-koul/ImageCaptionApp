@@ -20,6 +20,7 @@ Please add the following dependencies in pubspec.yaml file
   
 ### Requirements
 
-A minSDK version of 3 is required for Flutter text to speech (flutter_tts) to work
+A minSDK version of 21 is required for Flutter text to speech (flutter_tts) to work
 
-To check your minSDK version go to 
+To check your minSDK version go to `src/image_captioning_frontend/android/app/build.gradle` and change the minSDKversion to 21
+
