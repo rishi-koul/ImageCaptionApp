@@ -35,7 +35,8 @@ class _UploaderState extends State<Uploader> {
   }
 
   void _getPrediction() async {
-    String url = 'https://3b0a9dde11f1.ngrok.io/api?Query=start';
+    String choose_url = 'http://10.0.2.2:5000'
+    String url = choose_url + '/api?Query=start';
     String Data = await GetData(url);
     Data = await GetData(url);
     var DecodedData = jsonDecode(Data);
