@@ -15,7 +15,6 @@ model = Model(inputs=model.inputs, outputs=model.layers[-1].output)
 model.save('any_name.h5')
 ```
 
----
 
 Every other model or tokenizer used can be found in this folder.
 
