@@ -9,13 +9,18 @@
 
 Please add the following dependencies in pubspec.yaml file
 ```
-  flutter_tts: ^1.2.6
-  image_picker:
-  firebase_storage:
-  firebase_core:
-  http:
-  path_provider:
-  path:
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+    flutter_tts: ^1.2.6
+    image_picker:
+    firebase_storage:
+    firebase_core:
+    http:
+    path_provider:
+    path:
   ```
   
 ### Requirements
