@@ -11,7 +11,7 @@
 brew cask install ngrok
 ngrok http 5000
 ```
-* After this you will receive an url, please replace 
+* After this you will receive an url, please replace the string `choose_url` in src/image_captioning_frontend/lib/Uploader.dart with the received url to run on real mobile devices
 
 ### Important
 You will find in the code that there was a  `loaded VGG16 restructed model` used. However the model was too large to upload on GitHub.
