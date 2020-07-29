@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556202070812",
+    "firebase_url": "https://fir-practice-a632b.firebaseio.com",
+    "project_id": "fir-practice-a632b",
+    "storage_bucket": "fir-practice-a632b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556202070812:android:cec01fe10a3424a64aa0d9",
+        "android_client_info": {
+          "package_name": "com.example.image_captioning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556202070812-o62f5h47p2eqi6940gpjdmac2sfbanco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqGCdSM_gXPijiw212a7q1mHX4udGeVF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556202070812-o62f5h47p2eqi6940gpjdmac2sfbanco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
