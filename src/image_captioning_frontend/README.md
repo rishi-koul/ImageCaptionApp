@@ -7,7 +7,7 @@
 
 ### Dependies
 
-Please add the following dependencies in your pub
+Please add the following dependencies in pubspec.yaml file
 ```
   flutter_tts: ^1.2.6
   image_picker:
@@ -17,3 +17,9 @@ Please add the following dependencies in your pub
   path_provider:
   path:
   ```
+  
+### Requirements
+
+A minSDK version of 3 is required for Flutter text to speech (flutter_tts) to work
+
+To check your minSDK version go to 
