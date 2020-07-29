@@ -7,8 +7,10 @@
 
 * As this is a custom api, it only runs on `localhost` and cannot be used for real mobile devices
 * In order to run on real mobile devices please start the localhost and run the following commands on the terminal : 
-``` brew cask install ngrok
-ngrok http 5000`
+```
+brew cask install ngrok
+ngrok http 5000
+```
 * After this you will receive an url, please replace 
 
 ### Important
