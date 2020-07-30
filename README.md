@@ -8,6 +8,9 @@
 * Google Firestore Storage is used as an intermidiate to store the images that are taken are later are used in the backend to generate captions
 
 ---
+## UI Design
+
+<img width="350" alt="Screen Shot 2020-07-29 at 8 06 15 PM" src="https://user-images.githubusercontent.com/59619895/88865839-f90ff300-d1d6-11ea-968f-07fbba626388.png">
 
 ---
 
