@@ -9,8 +9,11 @@
 
 ---
 
-## Visuals
+---
 
+### Notes
+
+Please refer to specific `README.md` files of each component in `src` folder for further details.
 
 
 
